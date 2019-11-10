@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Edwin Blommaerts</title>
+    <link>edwin.blommaerts.io/posts/</link>
+    <description>Recent content in Posts on Edwin Blommaerts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Nov 2019 15:06:19 +0000</lastBuildDate>
+    
+	<atom:link href="edwin.blommaerts.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Seventh Post</title>
+      <link>edwin.blommaerts.io/posts/my-seventh-post/</link>
+      <pubDate>Thu, 07 Nov 2019 15:06:19 +0000</pubDate>
+      
+      <guid>edwin.blommaerts.io/posts/my-seventh-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

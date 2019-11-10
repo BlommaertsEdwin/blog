@@ -1,0 +1,73 @@
+baseURL = "edwin.blommaerts.io"
+theme = "Mainroad"
+baseurl = "/"
+title = "Edwin Blommaerts"
+languageCode = "en-uk"
+paginate = "10" # Number of posts per page
+disqusShortname = "blommaertsedwin" # Enable comments by entering your Disqus shortname
+googleAnalytics = "70427011" # Enable Google Analytics by entering your tracking id
+
+[Author] # Used in authorbox
+  name = "Edwin Blommaerts"
+  bio = "A fresh healthy food loving Belgian living in the UK. A proud dad to two brilliant kids. A software developer with strong positive views on test driven development and pair programming. An enthousiatic aspiring runner and lastly an avid boardgamer."
+  avatar = "img/avatar.png"
+
+[Params]
+  subtitle = "“The beginning of knowledge is the discovery of something we do not understand.” Frank Herbet, Dune" # Subtitle of your site. Used in site header
+  description = "Personal website with blog posts about life, boardgames and running." # Site description. Used in meta description
+  copyright = "Edwin Blommaerts" # copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = true # Show "Read more" button in list if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  post_navigation = true # Show post navigation at bottom of pages if true
+  post_meta = ["date", "categories", "translations"] # Order of post meta information
+  mainSections = ["posts"] # specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # change the format of dates
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  highlightColor = "#e22d30" # Override highlight color
+  customCSS = ["css/custom.css"] # Include custom CSS files
+  customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets]
+  recent_num = 5 # Set the number of articles in the "Recent articles" widget
+  tags_counter = true # Enable counter for each tag in "Tags" widget (disabled by default)
+
+[Params.widgets.social]
+  # Enable parts of social widget
+  facebook = "edwin.blommaerts"
+  twitter = "EdwinBlommaerts"
+  instagram = "edwinblommaerts"
+  # linkedin = "username"
+  # telegram = "username"
+  github = "BlommaertsEdwin"
+  # gitlab = "username"
+  # bitbucket = "username"
+  email = "edwin dot blommaerts at gmail dot com"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+#  [[menu.main]]
+#    name = "About"
+#    pre = "edit"
+#    url = "/about/"
+#    weight = 2
+#  [[menu.main]]
+#    name = "Tags"
+#    pre = "tag"
+#    url = "/tags/"
+#    weight = 3
