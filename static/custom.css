@@ -1,0 +1,17 @@
+img[src$='#floatleft']
+{
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: left;
+	padding-right: 5mm;
+}
+
+img[src$='#floatright']
+{
+	max-width: 30%;
+	width: auto\9*0.3; /* ie8 */
+	height: auto;
+	float: right;
+	padding-left: 5mm;
+}
