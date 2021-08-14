@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Blommaerts Edwin</title>
+    <link>http://blommaertsedwin.io/authors/</link>
+    <description>Recent content in Authors on Blommaerts Edwin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Aug 2021 00:27:51 +0100</lastBuildDate>
+    
+	<atom:link href="http://blommaertsedwin.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>me</title>
+      <link>http://blommaertsedwin.io/authors/me/</link>
+      <pubDate>Sat, 14 Aug 2021 00:27:51 +0100</pubDate>
+      
+      <guid>http://blommaertsedwin.io/authors/me/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
