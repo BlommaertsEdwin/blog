@@ -5,20 +5,6 @@
     <link>http://blommaertsedwin.io/authors/</link>
     <description>Recent content in Authors on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 14 Aug 2021 00:27:51 +0100</lastBuildDate>
-    
-	<atom:link href="http://blommaertsedwin.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>me</title>
-      <link>http://blommaertsedwin.io/authors/me/</link>
-      <pubDate>Sat, 14 Aug 2021 00:27:51 +0100</pubDate>
-      
-      <guid>http://blommaertsedwin.io/authors/me/</guid>
-      <description></description>
-    </item>
-    
+    <language>en</language><atom:link href="http://blommaertsedwin.io/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

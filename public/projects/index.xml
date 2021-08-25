@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blommaerts Edwin</title>
-    <link>http://blommaertsedwin.io/</link>
-    <description>Recent content on Blommaerts Edwin</description>
+    <title>Projects on Blommaerts Edwin</title>
+    <link>http://blommaertsedwin.io/projects/</link>
+    <description>Recent content in Projects on Blommaerts Edwin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Aug 2021 03:10:56 +0100</lastBuildDate><atom:link href="http://blommaertsedwin.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Aug 2021 03:10:56 +0100</lastBuildDate><atom:link href="http://blommaertsedwin.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dungeon Delver</title>
       <link>http://blommaertsedwin.io/projects/dungeon_delver/</link>
