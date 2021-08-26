@@ -34,3 +34,10 @@ You can also find all the ideas and things I'm working on for Dungeon Delver on 
 * [Ask Game Dev](https://www.youtube.com/c/AskGamedev)
 * [Game Development Center](https://www.youtube.com/c/GameDevelopmentCenter)
 
+## Do you have any gameplay video?
+
+Getting equipment added into the equipment slots to show on the character.
+{{< youtube id="RrPsaXnNs_A" title="Getting equipment added into the equipment slots to show on the character." >}}
+<br/>
+Combat with NPC
+{{< youtube id="HGiaCjnX_HY" title="Getting equipment added into the equipment slots to show on the character." >}}
