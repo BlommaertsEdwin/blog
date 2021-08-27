@@ -122,6 +122,12 @@ icon = "fa fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/edwin-blommaerts-3ba108199/"
 
+[[params.social]]
+name = "Youtube"
+icon = "fa fa-youtube"
+weight = 4
+url = "https://www.youtube.com/channel/UCBfeWc_El6k2kMmsYfv81fw"
+
 # [[params.social]]
 # name = "Medium"
 # icon = "fa fa-medium"

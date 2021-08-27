@@ -1,7 +1,6 @@
 ---
 title: "About"
-date: 2021-08-14T03:26:04+01:00
-draft: true
+date: 2021-08-27T00:10:53+01:00
+draft: false
 ---
 
-WIP
