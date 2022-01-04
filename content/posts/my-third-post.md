@@ -20,6 +20,8 @@ Let's get the new year off to a good start with some personal goals:
 - Keep turning my office into my dream workspace.
 - Make an active effort to write more blog posts, even if it's for myself.
 - Actively think how I might sound talking to people, so I do not make them feel less.
+
+
 Professional:
 
 - Refine and work on the agile workflow process in Odoo and help roll out an agile development delivery process.
