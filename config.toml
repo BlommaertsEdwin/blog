@@ -201,3 +201,5 @@ url = "contact/"
 disable = false
 privacyEnhanced = true
 
+[params.vantaBackground]
+vantaBackground = true
