@@ -1,6 +1,6 @@
 [submodule "themes/hugo-coder"]
 	path = themes/hugo-coder
-	url = https://github.com/luizdepra/hugo-coder.git
+	url = git@github.com:BlommaertsEdwin/hugo-coder.git
 [submodule "public"]
 	path = public
-	url = https://github.com/BlommaertsEdwin/BlommaertsEdwin.github.io.git
+	url = git@github.com:BlommaertsEdwin/BlommaertsEdwin.github.io.git
