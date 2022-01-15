@@ -12,7 +12,7 @@ series = []
 +++
 
 I was tired of seeing my little man running around stark naked without anywhere to hide behind. So I created a tree for him.
-Using Y-sort, collision shapes and static bodies I made it possible for him to go behind the tree but not go through it.
+Using Y-sort, collision shapes, and static bodies, I made it possible for him to go behind the tree but not go through it.
 
 Behold my creation!
 
