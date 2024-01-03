@@ -147,11 +147,6 @@ type = "application/rss+xml"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
-
-[[languages.en.menu.main]]
 name = "Blog"
 weight = 2
 url = "posts/"
@@ -160,11 +155,6 @@ url = "posts/"
 name = "Projects"
 weight = 3
 url = "projects/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
 
 # [languages.pt-br]
 # languageName = ":brazil:"
@@ -178,11 +168,6 @@ url = "contact/"
 # footerContent = "Coloque algum texto aqui."
 
 # [[languages.pt-br.menu.main]]
-# name = "Sobre"
-# weight = 1
-# url = "about/"
-
-# [[languages.pt-br.menu.main]]
 # name = "Blog"
 # weight = 2
 # url = "posts/"
@@ -191,11 +176,6 @@ url = "contact/"
 # name = "Projetos"
 # weight = 3
 # url = "projects/"
-
-# [[languages.pt-br.menu.main]]
-# name = "Contato"
-# weight = 5
-# url = "contact/"
 
 [privacy.youtube]
 disable = false
