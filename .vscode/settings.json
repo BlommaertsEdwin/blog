@@ -4,6 +4,10 @@
             "language": "markdown",
             "scheme": "file",
             "pattern": "content/posts/almostthenyear.md"
+        },
+        {
+            "language": "markdown",
+            "scheme": "file"
         }
     ]
 }
