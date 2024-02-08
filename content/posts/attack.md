@@ -15,5 +15,3 @@ Started out wanting to add the attack mechanics but wound up switching to UI bui
 Specifically, building a character sheet with drag and drop for equipment.
 
 Spend most of the time researching the best solution to build one. 
-
-
