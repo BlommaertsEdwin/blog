@@ -27,8 +27,6 @@ Went for a long walk today, and enjoyed myself. Listened to some music while wal
 
 ![Test](../../images/walks/1/20240218_125038.jpg)
 
-![Test](../../images/walks/1/20240218_125754.jpg)
-
 ![Test](../../images/walks/1/20240218_125758.jpg)
 
 ![Test](../../images/walks/1/20240218_125952.jpg)
@@ -64,8 +62,6 @@ Went for a long walk today, and enjoyed myself. Listened to some music while wal
 ![Test](../../images/walks/1/20240218_153257.jpg)
 
 ![Test](../../images/walks/1/20240218_154141.jpg)
-
-![Test](../../images/walks/1/20240218_154143.jpg)
 
 ![Test](../../images/walks/1/20240218_154405.jpg)
 

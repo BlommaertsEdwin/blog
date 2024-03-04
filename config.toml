@@ -14,8 +14,9 @@ disqusShortname = "blommaertsedwin"
 [params]
 author = "Blommaerts Edwin"
 description = "Blommaerts Edwin's personal website"
+favicon = true
 keywords = "blog,developer,personal"
-info = ["Aspiring Marathon runner", "Odoo Handler", "Python Wrangler", "Game Tinkerer"]
+info = ["Vistor of gigs", "Aspiring runner of a Marathon", "Maker of Heavy Metal Hikes ", "Handler of Odoo Quirks", "Taker of Average Photos", "Wrangler of Python code", "Tinkerer Of Games"]
 avatarURL = "images/ed.jpg"
 #gravatar = "john.doe@example.com"
 footerContent = ""
@@ -105,6 +106,12 @@ icon = "fa fa-github"
 weight = 1
 url = "https://github.com/blommaertsedwin/"
 
+[[params.social]]
+name = "Instagram"
+icon = "fa fa-instagram"
+weight = 1
+url = "https://www.instagram.com/edwinblommaerts/"
+
 # [[params.social]]
 # name = "Gitlab"
 # icon = "fa fa-gitlab"
@@ -128,6 +135,12 @@ name = "Youtube"
 icon = "fa fa-youtube"
 weight = 4
 url = "https://www.youtube.com/channel/UCBfeWc_El6k2kMmsYfv81fw"
+
+[[params.social]]
+name = "Spotify"
+icon = "fa fa-spotify"
+weight = 4
+url = "https://open.spotify.com/user/116872954?si=HN0rSsqQT_OaytP6O4v22Q"
 
 # [[params.social]]
 # name = "Medium"
