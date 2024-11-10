@@ -20,7 +20,7 @@ Also call out to Gandalf the wizard on one of the busses with his wooden staff. 
 
 But how was Cannibal Corpse?
 
-Well It was the first time seeing them 
+I'm sold, it was my first time watching them live. I had been listening to them in the car but this was something different. It was so good, this singer was bloody amazing, the range and skills. I had so much fun.
 
 ![Cannibal Corpse Stage image](../../images/gigs/cannibalcorpse/cc2.jpg)
 ![Cannibal Corpse Stage image](../../images/gigs/cannibalcorpse/cc3.jpg)
